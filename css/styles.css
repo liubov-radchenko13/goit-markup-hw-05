@@ -478,7 +478,6 @@ img{
     color: #4d5ae5;
     margin-bottom: 16px;
     display: inline-block;
-
 }
 
 .footer-logo-color {
@@ -542,6 +541,28 @@ img{
     width: 40px;
     height: 40px;
     margin-bottom: 8px;
+}
+
+
+.footer-right{
+
+}
+
+.footer-right-p{
+    margin-bottom: 16px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#ffffff ;
+}
+
+.footer-form{
+    display: flex;
+}
+
+.footer-label{
+    gap: 24px;
 }
 
 /*--Modal--*/
